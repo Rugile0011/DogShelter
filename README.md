@@ -1,2 +1,2 @@
 # GyvunuPrieglauda
-Programėlė, kuri padeda išsirinkti augintinį
+Programėlė, kuri padeda išsirinkti augintinį.
